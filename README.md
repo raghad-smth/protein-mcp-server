@@ -1,6 +1,6 @@
 Proteins MCP Server 
 ---
-#Bio Intro
+# Bio Intro
 
 ## What is DNA?
 
